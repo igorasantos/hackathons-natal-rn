@@ -51,4 +51,4 @@
 | 2019-08-16 | 2019-08-18 | Governo do RN | Hacka Space<br>Campus Party Natal<br>(Centro de Convenções) | [Link](https://hackathonmicrolearning.splashthat.com/)|
 | 2019-08-23 | 2019-08-25 | Neoenergia | IMD-UFRN | Links [1](https://imd.ufrn.br/portal/noticias/5761/prazo-de-inscri%C3%A7%C3%B5es-do-hackathon-neoenergia-%C3%A9-prorrogado-para-quinta-feira-), [2](https://drive.google.com/file/d/1O7Mu85F7lK0mluvTpkoYbAqt-ikL_9Ye/view) e [3](https://www.neoenergia.com/pt-br/sustentabilidade/inovacao/Paginas/segundo-hackathon.aspx) |
 | 2019-08-30 | 2019-09-01 | ESIG | SEBRAE RN | [Link](http://esig.com.br.pages.services/hackedu/)|
-| 2019-09-12 | 2019-09-13 | CERES UFRN | CERES UFRN | [Link](http://sigeventos.ufrn.br/evento/hack2019)|
+| 2019-09-12 | 2019-09-13 | CERES UFRN | CERES UFRN | Link [1](http://sigeventos.ufrn.br/evento/hack2019) e [2](https://ufrn.br/imprensa/noticias/28328/inscricoes-abertas-para-o-1o-hackathon-do-ceres-no-campus-caico)|
